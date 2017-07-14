@@ -1,0 +1,55 @@
+.a_d_c{
+	background-color: #ffffff;
+	float: left;
+	height: 26px;
+	margin-left: 26px;
+	padding-bottom: 9px;
+	padding-right: 22px;
+	padding-left: 9px;
+	padding-top: 16px;
+	text-align: center;
+		
+	
+}
+
+.inside_r .all{
+	width: 156px;
+}
+
+.a_d_c_submit {
+   padding-top: 82px;
+	margin-left: 24px;
+	
+}
+.a_d_c_submit .a_d_c_sub{
+	font-family: "Open Sans",sans-serif;
+	background: #0073aa;
+	color: #ffffff;
+	font-size: 15px;
+	font-weight: 600;
+	padding: 9px;
+	text-transform: uppercase;
+	cursor: pointer;
+}
+
+
+.donate_ad_plugin {
+	border: 2px solid #ccc;
+	float: right;
+	padding: 11px 16px 17px 19px;
+	width: 14%;
+}
+.donate_ad_plugin > span {
+    color: #0073aa;
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 17px;
+}
+.inside_r {
+    float: left;
+}
+
+
+
+
